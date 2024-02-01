@@ -1,2 +1,2 @@
-# PythonStudyProject
+# 파이썬 공부파일 모음
 파이썬 공부 프로젝트 모음
