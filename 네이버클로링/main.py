@@ -38,7 +38,7 @@ class winhttp:
 
 def main() -> None:
     # 검색어 설정
-    searchWord = "파이썬 최고"
+    searchWord = "파이썬 최고!"
 
     # 네이버 url, header 설정
     Url = f"https://search.naver.com/search.naver?ssc=tab.news.all&query={searchWord}"
